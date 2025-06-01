@@ -61,8 +61,8 @@ Accédez à l’application à l’adresse : [http://localhost:5000](http://loca
 
 2. Soumission d’un vote
 
-![image.png](https://github.com/satwikkansal/python_blockchain_app/raw/master/screenshots/5.jpeg)
+![image.png](https://github.com/chaymaAitB/Impl-mentation-d-une-Solution-Blockchain-pour-vote-lectronique/blob/main/screenshots/5.jpeg)
 
 3. Vérification du vote unique par utilisateur 
 
-![image.png](https://github.com/satwikkansal/python_blockchain_app/raw/master/screenshots/6.jpeg)
+![image.png](https://github.com/chaymaAitB/Impl-mentation-d-une-Solution-Blockchain-pour-vote-lectronique/blob/main/screenshots/6.jpeg)
