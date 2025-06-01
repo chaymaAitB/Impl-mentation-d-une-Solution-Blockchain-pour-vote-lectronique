@@ -19,7 +19,7 @@ Ce projet est une application simple de vote électronique basée sur la blockch
 
 ## 📚 Tutoriel d’implémentation
 
-Pour comprendre le fonctionnement interne de cette application blockchain, veuillez consulter le [tutoriel détaillé de Satwik Kansal](https://gist.github.com/satwikkansal/4a857cad2797b9d199547a752933a715).
+Pour comprendre le fonctionnement interne de cette application blockchain, veuillez consulter le [tutoriel détaillé de Satwik Kansal](https://web.archive.org/web/20201222142511/https:/developer.ibm.com/technologies/blockchain/tutorials/develop-a-blockchain-application-from-scratch-in-python/#4-implement-a-proof-of-work-algorithm).
 
 ---
 
