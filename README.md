@@ -57,7 +57,7 @@ Accédez à l’application à l’adresse : [http://localhost:5000](http://loca
 
 1. Interface de vote
 
-![image.png](https://github.com/satwikkansal/python_blockchain_app/raw/master/screenshots/4.jpeg)
+![image.png](https://github.com/chaymaAitB/Impl-mentation-d-une-Solution-Blockchain-pour-vote-lectronique/tree/main/screenshots/4.jpeg)
 
 2. Soumission d’un vote
 
